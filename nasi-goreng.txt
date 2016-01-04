@@ -1,0 +1,10 @@
+Ingredients:
+- Rice
+- Meat
+- Salt
+- Veggie (optional)
+
+Instructions:
+- Fry the meat first, add some salt
+- Fry the rice, add some salt.
+- Done.
